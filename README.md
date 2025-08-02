@@ -29,13 +29,13 @@ I'm passionate about building smart solutions, solving seemingly impossible prob
 
 ## 📈 GitHub Stats
 
-![Khushbu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushbulad&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushbulad&layout=compact)
+![Khushbu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushbunlad&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushbunlad&layout=compact)
 
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/khushbu-lad/)
+- **LinkedIn**:[LinkedIn Profile](https://www.linkedin.com/in/khushbu-lad/)
 - **Email**: khushbunladwork@gmail.com
 - [Portfolio Website (Coming Soon)](https://khushbulad.github.io/)
 
