@@ -13,10 +13,12 @@ I'm passionate about building smart solutions, solving seemingly impossible prob
 Solving complex problems through experimentation and creative thinking.
 #### 🔬Focus Areas
 AI-powered systems · Cross-functional development · Clean UX
-####🌍Based In
+#### 🌍Based In
 Canada · Open to global remote opportunities
+
 <hr />
 <i>Always exploring what’s next in technology</i>
+<hr />
 
 
 
