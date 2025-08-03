@@ -2,47 +2,31 @@
 
 Research-Oriented Full Stack Developer | R&D Enthusiast | Passionate about creative problem-solving, clean UI, and intelligent solutions | Based in Canada | Open to global remote work |Always exploring what’s next in technology
 
-<div align="center" style="margin-bottom: 30px;">
+<div align="center" style="margin-top: 20px;">
 
-<h2>👩‍💻 Research-Oriented Full Stack Developer</h2>
-<p style="color: #555; font-size: 16px; max-width: 600px; margin: 0 auto;">
-  Passionate about building clean, intelligent solutions that blend functionality with user experience.
-</p>
+<div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; margin-bottom: 16px; width: 90%; max-width: 700px;">
+  <h2 style="margin-bottom: 8px;">Research-Oriented Full Stack Developer</h2>
+  <p style="margin: 0;">Driven by a passion for clean code, elegant UI, and impactful software solutions.</p>
+</div>
 
-<br />
+<div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; margin-bottom: 16px; width: 90%; max-width: 700px;">
+  <h3 style="margin-bottom: 8px;">R&D Enthusiast</h3>
+  <p style="margin: 0;">Solving complex problems through experimentation and creative thinking.</p>
+</div>
 
-<table align="center">
-  <tr>
-    <td align="center" style="background-color:#f9f9f9; padding: 15px; border-radius: 10px; border: 1px solid #eee;">
-      <img src="https://img.icons8.com/ios-filled/24/000000/microscope.png"/>
-      <br />
-      <strong>R&D Enthusiast</strong><br />
-      Thrives on experimentation and creative problem-solving.
-    </td>
-    <td width="20"></td>
-    <td align="center" style="background-color:#f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #eee;">
-      <img src="https://img.icons8.com/ios-filled/24/000000/mac-client.png"/>
-      <br />
-      <strong>UI/UX Focus</strong><br />
-      Designs intuitive and clean user experiences.
-    </td>
-    <td width="20"></td>
-    <td align="center" style="background-color:#fdf5e6; padding: 15px; border-radius: 10px; border: 1px solid #eee;">
-      <img src="https://img.icons8.com/ios-filled/24/000000/worldwide-location.png"/>
-      <br />
-      <strong>Global Presence</strong><br />
-      Based in Canada · Open to remote work
-    </td>
-  </tr>
-</table>
+<div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; margin-bottom: 16px; width: 90%; max-width: 700px;">
+  <h3 style="margin-bottom: 8px;">Focus Areas</h3>
+  <p style="margin: 0;">Clean UX · AI-powered systems · Cross-functional development</p>
+</div>
 
-<br />
-
-<p style="font-style: italic; color: #888;">
-  Always exploring what's next in technology.
-</p>
+<div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; width: 90%; max-width: 700px;">
+  <h3 style="margin-bottom: 8px;">Based In</h3>
+  <p style="margin: 0;">Canada · Open to global remote opportunities</p>
+  <p style="color: gray; font-style: italic; margin-top: 8px;">Always exploring what’s next in technology</p>
+</div>
 
 </div>
+
 
 
 **Research-Oriented Full Stack Developer**  
