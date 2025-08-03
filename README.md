@@ -1,10 +1,10 @@
 <h2 align="left">Hi there, I'm Khushbu Lad</h2>
 <p align="left" style="margin-top: -10px;">
   I'm a software developer and AI researcher driven by a passion for impactful software solutions with clean code and elegant UI with 8+ years of experience spanning:
-  - **Expert**: Full Stack Development (.NET C#, JavaScript, MsSQL)
-  - **Intermediate**: Research & Development Projects
-  - **Beginner**: Applied Artificial Intelligence & Machine Learning
 </p>
+- **Expert**: Full Stack Development (.NET C#, JavaScript, MsSQL)
+- **Intermediate**: Research & Development Projects
+- **Beginner**: Applied Artificial Intelligence & Machine Learning
 
 <div>
   <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 8px;">
