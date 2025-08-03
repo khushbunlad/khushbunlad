@@ -6,7 +6,7 @@
 <div>
   <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 10px;">
     <h4 style="margin: 0;">R&D Enthusiast</h4>
-    <p style="margin: 4px 0 0;">Solving complex problems through experimentation and creative thinking.</p>
+    <p>Solving complex problems through experimentation and creative thinking.</p>
   </div>
   <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 10px;">
     <h4 style="margin: 0;">Focus Areas</h4>
