@@ -6,15 +6,15 @@
 <div>
   <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 10px;">
     <h4 style="margin: 0;">R&D Enthusiast</h4>
-    <p style="margin: 6px 0 0;">Solving complex problems through experimentation and creative thinking.</p>
+    <p style="margin: 4px 0 0;">Solving complex problems through experimentation and creative thinking.</p>
   </div>
   <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 10px;">
     <h4 style="margin: 0;">Focus Areas</h4>
-    <p style="margin: 6px 0 0;">Clean UX · AI-powered systems · Cross-functional development</p>
+    <p style="margin: 4px 0 0;">Clean UX · AI-powered systems · Cross-functional development</p>
   </div>
   <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 10px;">
     <h4 style="margin: 0;">Based In</h4>
-    <p style="margin: 6px 0 0;">Canada · Open to global remote opportunities</p>
+    <p style="margin: 4px 0 0;">Canada · Open to global remote opportunities</p>
     <p style="color: gray; font-style: italic; margin: 6px 0 0;">Always exploring what’s next in technology</p>
   </div>
 </div>
