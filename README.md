@@ -1,31 +1,26 @@
-<h2 align="left">Hi there, I'm Khushbu Lad — <i>Research-Oriented Full Stack Developer</i></h2>
-<p align="left" style="margin-top: -10px;">
-  Driven by a passion for clean code, elegant UI, and impactful software solutions.
-</p>
+## Hi there, I'm Khushbu Lad: Research-Oriented Full Stack Developer  
+<p style="margin: 0;">Driven by a passion for clean code, elegant UI, and impactful software solutions.</p>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 16px;">
-        <h4 style="margin: 0;">R&D Enthusiast</h4>
-        <p style="margin: 6px 0 0;">Solving complex problems through experimentation and creative thinking.</p>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 16px;">
-        <h4 style="margin: 0;">Focus Areas</h4>
-        <p style="margin: 6px 0 0;">Clean UX · AI-powered systems · Cross-functional development</p>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 16px;">
-        <h4 style="margin: 0;">Based In</h4>
-        <p style="margin: 6px 0 0;">Canada · Open to global remote opportunities</p>
-        <p style="color: gray; font-style: italic; margin: 6px 0 0;">Always exploring what’s next in technology</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 16px; margin-top: 16px;">
+
+  <div style="flex: 1; min-width: 250px; background-color: rgba(255,255,255,0.05); border-radius: 12px; padding: 16px;">
+    <h3 style="margin-bottom: 8px; color: #c39bd3;">R&D Enthusiast</h3>
+    <p style="margin: 0;">Solving complex problems through experimentation and creative thinking.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; background-color: rgba(255,255,255,0.05); border-radius: 12px; padding: 16px;">
+    <h3 style="margin-bottom: 8px; color: #7fb3d5;">Focus Areas</h3>
+    <p style="margin: 0;">Clean UX · AI-powered systems · Cross-functional development</p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; background-color: rgba(255,255,255,0.05); border-radius: 12px; padding: 16px;">
+    <h3 style="margin-bottom: 8px; color: #76d7c4;">Based In</h3>
+    <p style="margin: 0;">Canada · Open to global remote opportunities</p>
+    <p style="color: gray; font-style: italic; margin-top: 8px;">Always exploring what’s next in technology</p>
+  </div>
+
+</div>
+
 
 
 
