@@ -1,31 +1,30 @@
-## Hi there, I'm Khushbu Lad
+## Hi there, I'm Khushbu Lad : Research-Oriented Full Stack Developer
+<p style="margin: 0;">Driven by a passion for clean code, elegant UI, and impactful software solutions.</p>
 
-Research-Oriented Full Stack Developer | R&D Enthusiast | Passionate about creative problem-solving, clean UI, and intelligent solutions | Based in Canada | Open to global remote work |Always exploring what’s next in technology
+<table>
+  <tr>
+    <td>
+      <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; margin-bottom: 16px; width: 90%; max-width: 700px;">
+        <h3 style="margin-bottom: 8px;">R&D Enthusiast</h3>
+        <p style="margin: 0;">Solving complex problems through experimentation and creative thinking.</p>
+      </div>
+    </td>
+    <td>
+      <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; margin-bottom: 16px; width: 90%; max-width: 700px;">
+        <h3 style="margin-bottom: 8px;">Focus Areas</h3>
+        <p style="margin: 0;">Clean UX · AI-powered systems · Cross-functional development</p>
+      </div>
+    </td>
+    <td>
+      <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; width: 90%; max-width: 700px;">
+        <h3 style="margin-bottom: 8px;">Based In</h3>
+        <p style="margin: 0;">Canada · Open to global remote opportunities</p>
+        <p style="color: gray; font-style: italic; margin-top: 8px;">Always exploring what’s next in technology</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="margin-top: 20px;">
-
-<div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; margin-bottom: 16px; width: 90%; max-width: 700px;">
-  <h2 style="margin-bottom: 8px;">Research-Oriented Full Stack Developer</h2>
-  <p style="margin: 0;">Driven by a passion for clean code, elegant UI, and impactful software solutions.</p>
-</div>
-
-<div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; margin-bottom: 16px; width: 90%; max-width: 700px;">
-  <h3 style="margin-bottom: 8px;">R&D Enthusiast</h3>
-  <p style="margin: 0;">Solving complex problems through experimentation and creative thinking.</p>
-</div>
-
-<div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; margin-bottom: 16px; width: 90%; max-width: 700px;">
-  <h3 style="margin-bottom: 8px;">Focus Areas</h3>
-  <p style="margin: 0;">Clean UX · AI-powered systems · Cross-functional development</p>
-</div>
-
-<div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 20px; width: 90%; max-width: 700px;">
-  <h3 style="margin-bottom: 8px;">Based In</h3>
-  <p style="margin: 0;">Canada · Open to global remote opportunities</p>
-  <p style="color: gray; font-style: italic; margin-top: 8px;">Always exploring what’s next in technology</p>
-</div>
-
-</div>
 
 
 
