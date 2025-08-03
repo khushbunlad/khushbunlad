@@ -1,10 +1,29 @@
 ## Hi there, I'm Khushbu Lad
 
-Research-Oriented Full Stack Developer | R&D Enthusiast | Recently moved to Canada | Always exploring what’s next in technology
+Research-Oriented Full Stack Developer | R&D Enthusiast | Passionate about creative problem-solving, clean UI, and intelligent solutions | Based in Canada | Open to global remote work |Always exploring what’s next in technology
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F79A30&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Khushbu+Lad!;Software+Engineer+%7C+AI%2FML+Explorer;UX-Driven+Developer+%7C+Creative+Thinker" alt="Typing SVG" />
-</p>
+<table>
+  <tr>
+    <td><strong>Title</strong></td>
+    <td>Research-Oriented Full Stack Developer</td>
+  </tr>
+  <tr>
+    <td><strong>Mindset</strong></td>
+    <td>R&D Enthusiast · Creative Problem Solver · UX Thinker</td>
+  </tr>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>Clean UI · Intelligent Systems · AI & Innovation</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Canada · Open to Global Remote Work</td>
+  </tr>
+  <tr>
+    <td><strong>Vision</strong></td>
+    <td>Always exploring what’s next in technology</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge&logo=visualstudio&logoColor=white"/>
