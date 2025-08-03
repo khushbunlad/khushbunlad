@@ -2,28 +2,21 @@
 
 Research-Oriented Full Stack Developer | R&D Enthusiast | Passionate about creative problem-solving, clean UI, and intelligent solutions | Based in Canada | Open to global remote work |Always exploring what’s next in technology
 
-<table>
-  <tr>
-    <td><strong>Title</strong></td>
-    <td>Research-Oriented Full Stack Developer</td>
-  </tr>
-  <tr>
-    <td><strong>Mindset</strong></td>
-    <td>R&D Enthusiast · Creative Problem Solver · UX Thinker</td>
-  </tr>
-  <tr>
-    <td><strong>Focus</strong></td>
-    <td>Clean UI · Intelligent Systems · AI & Innovation</td>
-  </tr>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Canada · Open to Global Remote Work</td>
-  </tr>
-  <tr>
-    <td><strong>Vision</strong></td>
-    <td>Always exploring what’s next in technology</td>
-  </tr>
-</table>
+**Research-Oriented Full Stack Developer**  
+Driven by a passion for clean code, elegant UI, and impactful software solutions.
+
+**R&D Enthusiast**  
+Solving complex problems through experimentation and creative thinking.
+
+**Focus Areas**  
+Clean UX · AI-powered systems · Cross-functional development
+
+**Based In**  
+Canada · Open to global remote opportunities
+
+**Mindset**  
+Always exploring what’s next in technology
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge&logo=visualstudio&logoColor=white"/>
