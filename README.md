@@ -2,6 +2,16 @@
 
 Research-Oriented Full Stack Developer | R&D Enthusiast | Recently moved to Canada | Always exploring what’s next in technology
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F79A30&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Khushbu+Lad!;Software+Engineer+%7C+AI%2FML+Explorer;UX-Driven+Developer+%7C+Creative+Thinker" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI/ML-Researcher-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX-Creative-lightgrey?style=for-the-badge&logo=figma&logoColor=black"/>
+</p>
+
 <br />
 
 I'm a software developer and AI researcher from India with 8+ years of experience spanning:
