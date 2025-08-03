@@ -1,7 +1,7 @@
-<h2 align="left">Hi there, I'm Khushbu Lad</h2>
-<p align="left" style="margin-top: -10px;">
-  I'm a software developer and AI researcher driven by a passion for impactful software solutions with clean code and elegant UI with 8+ years of experience spanning:
-</p>
+## Hi there, I'm Khushbu Lad
+
+I'm a software developer and AI researcher driven by a passion for impactful software solutions with clean code and elegant UI with 8+ years of experience spanning:
+
 - **Expert**: Full Stack Development (.NET C#, JavaScript, MsSQL)
 - **Intermediate**: Research & Development Projects
 - **Beginner**: Applied Artificial Intelligence & Machine Learning
