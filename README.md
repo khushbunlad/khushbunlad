@@ -1,64 +1,29 @@
 <h2 align="left">Hi there, I'm Khushbu Lad</h2>
-**Research-Oriented Full Stack Developer** 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h5>🧠 Mindset  </h5>
-      Exploring what’s next in tech  
-      Driven by curiosity and innovation  
-    </td>
-    <td width="33%" valign="top">
-      <h5>🔬 Focus Areas</h5>
-      AI-powered systems  
-      Cross-functional dev  
-      Clean UX 
-    </td>
-    <td width="33%" valign="top">
-        <h5>🌍 Location</h5>  
-        Based in Canada  
-        Open to global remote work  
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  *Passionate about clean code, elegant UI, and impactful solutions.*
-</div>
-
-
-
 <p align="left" style="margin-top: -10px;">
-  Driven by a passion for clean code, elegant UI, and impactful software solutions.
+  I'm a software developer and AI researcher driven by a passion for impactful software solutions with clean code and elegant UI with 8+ years of experience spanning:
+  - **Expert**: Full Stack Development (.NET C#, JavaScript, MsSQL)
+  - **Intermediate**: Research & Development Projects
+  - **Beginner**: Applied Artificial Intelligence & Machine Learning
 </p>
 
 <div>
   <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 8px;">
-    <h4 style="margin: 0;">R&D Enthusiast</h4>
+    <h4>🧠R&D Enthusiast</h4>
     <p>Solving complex problems through experimentation and creative thinking.</p>
   </div>
   <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 8px;">
-    <h4 style="margin: 0;">Focus Areas</h4>
-    <p style="margin: 4px 0 0;">Clean UX · AI-powered systems · Cross-functional development</p>
+    <h4>🔬Focus Areas</h4>
+    <p>AI-powered systems · Cross-functional development · Clean UX</p>
   </div>
   <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 8px;">
-    <h4 style="margin: 0;">Based In</h4>
-    <p style="margin: 4px 0 0;">Canada · Open to global remote opportunities</p>
-    <p style="color: gray; font-style: italic; margin: 6px 0 0;">Always exploring what’s next in technology</p>
+    <h4>🌍Based In</h4>
+    <p>Canada · Open to global remote opportunities</p>
   </div>
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI/ML-Researcher-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UX-Creative-lightgrey?style=for-the-badge&logo=figma&logoColor=black"/>
-</p>
+<p style="color: gray; font-style: italic; margin: 6px 0 0;">Always exploring what’s next in technology</p>
 
 <br />
 
-I'm a software developer and AI researcher from India with 8+ years of experience spanning:
-- Expert | Full Stack Development (.NET C#, JavaScript, MsSQL)
-- Intermediate | Research & Development Projects
-- Beginner | Applied Artificial Intelligence & Machine Learning
 
 <br />
 
