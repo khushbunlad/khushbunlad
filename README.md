@@ -1,33 +1,25 @@
 ## Hi there, I'm Khushbu Lad
 
-I'm a software developer and AI researcher driven by a passion for impactful software solutions with clean code and elegant UI with 8+ years of experience spanning:
+I'm a software developer and AI researcher driven by a passion for impactful software solutions with clean code and elegant UI having 8+ years of experience spanning:
 
 - **Expert**: Full Stack Development (.NET C#, JavaScript, MsSQL)
 - **Intermediate**: Research & Development Projects
 - **Beginner**: Applied Artificial Intelligence & Machine Learning
 
-<div>
-  <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 8px;">
-    <h4>🧠R&D Enthusiast</h4>
-    <p>Solving complex problems through experimentation and creative thinking.</p>
-  </div>
-  <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 8px;">
-    <h4>🔬Focus Areas</h4>
-    <p>AI-powered systems · Cross-functional development · Clean UX</p>
-  </div>
-  <div style="border: 1px solid rgba(120,120,120,0.2); border-radius: 10px; padding: 8px;">
-    <h4>🌍Based In</h4>
-    <p>Canada · Open to global remote opportunities</p>
-  </div>
-</div>
-<p style="color: gray; font-style: italic; margin: 6px 0 0;">Always exploring what’s next in technology</p>
-
 <br />
-
-
-<br />
-
 I'm passionate about building smart solutions, solving seemingly impossible problems, and helping businesses thrive with tech-powered innovation.
+
+#### 🧠R&D Enthusiast
+Solving complex problems through experimentation and creative thinking.
+#### 🔬Focus Areas
+AI-powered systems · Cross-functional development · Clean UX
+####🌍Based In
+Canada · Open to global remote opportunities
+<hr />
+<i>Always exploring what’s next in technology</i>
+
+
+
 
 ## Area of Expertise
 
