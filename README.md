@@ -3,18 +3,18 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      ### 🧠 Mindset  
+      <h5>🧠 Mindset  </h5>
       Exploring what’s next in tech  
       Driven by curiosity and innovation  
     </td>
     <td width="33%" valign="top">
-      ### 🔬 Focus Areas  
-      Clean UX  
+      <h5>🔬 Focus Areas</h5>
       AI-powered systems  
       Cross-functional dev  
+      Clean UX 
     </td>
     <td width="33%" valign="top">
-        ### 🌍 Location  
+        <h5>🌍 Location</h5>  
         Based in Canada  
         Open to global remote work  
     </td>
